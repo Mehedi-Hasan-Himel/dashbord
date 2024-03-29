@@ -1,8 +1,7 @@
 "use client";
 import React from "react";
 
-
-const ECommerce: React.FC = () => {
+const Dashboard: React.FC = () => {
   return (
     <>
       <section className="flex items-center justify-center text-4xl font-semibold">
@@ -12,4 +11,4 @@ const ECommerce: React.FC = () => {
   );
 };
 
-export default ECommerce;
+export default Dashboard;

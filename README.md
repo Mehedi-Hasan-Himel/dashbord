@@ -18,7 +18,7 @@ TailAdmin utilizes the powerful features of **Next.js 13** and common features o
 
 #### [TailAdmin Next.js PRO](https://nextjs-demo.tailadmin.com/)
 
-- 4 Unique Dashboards: Analytics, Ecommerce, Marketing, and CRM (More will be added)
+- 4 Unique Dashboards: Analytics, Dashboard, Marketing, and CRM (More will be added)
 - 120+ Dashboard UI Components
 - 200+ Total UI Elements
 - 45+ HTML Files
@@ -121,4 +121,5 @@ If you like the template, please star this repository to inspire the team to cre
 ### Version 0.1.0 - Initial Release - [Aug 3, 2023]
 
 - Initial release of TailAdmin Next.
+
 # dashbord
